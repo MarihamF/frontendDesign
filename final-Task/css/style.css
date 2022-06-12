@@ -1,0 +1,458 @@
+.col-sm-12{
+    text-align: center;
+}
+section .home{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),
+    url("../Images/banner.jpg") no-repeat center center/cover;
+    background-size: 100% 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.home .container p{
+    padding-top: 20px;
+    margin-bottom: 5px;
+}
+.home .container h1,h2,p{
+    font-size: 16px;
+    font-weight: 700;
+}
+.home .container .par{
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+.btn2 {
+    padding-bottom: 20px;
+}
+.card-body1 {
+    margin-top: 50px;
+}
+.show{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.card-body1 h2{
+    font-size: 32px;
+    line-height: 1.38em;
+    font-weight: 700;
+}
+.card-body1 p{
+    font-size: 17px;
+    font-weight: 400;
+    color: #686868;
+    line-height: 1.38em;
+}
+.card-body1 .card-text{
+    font-weight: 700; 
+    line-height: 0.4em; 
+} 
+.enginer{
+    width: 100%;
+}
+.banner-section{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+    url("../Images/bg4.jpg") no-repeat center center/cover;
+    margin-top: 50px;
+}
+.banner-section .container h2,p{
+    text-align: center;
+   
+}
+.banner-section .container h2{
+    padding-top: 25px;
+    font-size: 20px;
+}
+.card{
+    border: none;
+    opacity: 0.8;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    position: relative;
+}
+.card-body1 h2 {
+    text-align: center;
+}
+.img{
+    width: 100px;
+    position: absolute;
+    left: 38%;
+    bottom: 114px;
+    border-radius: 50%;
+}
+.img{
+    width: 100px;
+    position: absolute;
+    left: 38%;
+    bottom: 161px;
+    border-radius: 50%;
+}
+.img img{
+    margin: 20px;
+}
+.container .title h3{
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: 20px;
+}
+.position{
+    position: relative;
+    margin: 0 50px
+}
+.heading{
+    position: absolute;
+    top: 98px;
+    background-color: #000;
+    opacity: 0.8;
+    text-align: center;
+    padding: 10px 0;
+}
+.heading h5{
+    font-size: 16px;
+}
+.BG{
+    background: linear-gradient(#5d574eaf,#5d574eaf),
+    url("../Images/bg2.jpg") no-repeat center center/cover;  
+}
+.BG .container{
+    padding: 0 9px 50px 9px;
+}
+.BG .container .made{
+    font-size: 20px;
+    font-weight: 800;
+    text-align: center;
+   padding-top: 50px;
+   padding-bottom: 30px;
+}
+.BG .container p{
+    padding-bottom: 30px;
+}
+.nav {
+    padding-bottom: 30px;
+}
+.nav-link{
+    text-decoration: none;
+    color: #fff;
+
+}
+li:first-child{
+    opacity: 0.8;
+}
+.gallery1{
+    width: 100%;
+}
+.bgi{
+    background: url(../Images/bg3.jpg) no-repeat center center/cover;
+}
+.title2 h3{
+    padding: 50px 0 30px;
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+}
+.title2 p{
+    padding: 0 30px 50px 30px;
+    font-size: 15px;
+    font-weight: 400;
+    font-weight: 400;
+    text-align: center;
+}
+.btn-lg {
+    padding: .5rem 0rem;
+}
+.cb2{
+    background-color: #E5E5E5;
+    margin: 0 30px;
+}
+.cb2 span{
+    text-align: justify;
+    padding-left: 50px;
+} 
+.cw img{
+    width: 20px;
+    margin: auto;
+} 
+.card1 img{
+    border-radius: 50%;
+    width: 100px;
+    margin: auto;
+}
+.john{
+    text-align: center;
+}
+.h23 h2{
+  font-size: 30px;
+  font-weight: 900;
+  padding-top: 50px;
+}
+.h23 h3{
+    font-size: 40px;
+    font-weight: 400;
+    padding-bottom: 50px;
+}
+.px-btn{
+    border: none;
+    border-radius: 30%;
+}
+#footer{
+    border-top: 50px solid rgba(41, 40, 40, 0.925);
+    background: linear-gradient(rgba(0, 0, 0, 0.719),rgba(0, 0, 0, 0.712)),
+    url("../Images/bg2.jpg") no-repeat center center/cover;
+    color: #fff;
+}
+.mar {
+    padding: 0;
+    margin: 30px 15px;
+}
+.widget h3{
+    font-size: 20px;
+    font-weight: 300;
+    margin: 10px;
+}
+.ppp .con{
+    font-size: 24px;
+    text-align: start;
+    margin: 0;
+}
+.ppp p{
+    font-size: 15px;
+    font-weight: 300;
+    text-align: start;
+}
+.icons a{
+    text-decoration: none;
+    background-color: #F7B901;
+    color: #000;
+    border-radius: 50%;
+    font-size: 25px;
+    padding: 0 10px;
+}
+.widget ul li a{
+    text-decoration: none; 
+    color: #fff;
+}
+.col-2{
+    border:  solid #fff;
+    border-radius: 50%;
+    font-size: 15px;
+    padding: 0px 10px;
+    margin-bottom: 10px;
+}
+.col-10{
+    padding: 10px;
+    font-size: 17px;
+}
+@media (min-width: 576px) {
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .col-sm-12{  
+        padding: 0 !important;
+    }
+     .col-md-5{
+        text-align: center;
+    }
+    .div{
+        margin: auto;
+    }
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    
+    .col-lg-2{
+        padding: 0;
+    }
+    .col-lg-3{
+        padding: 0; 
+    }
+    .col-lg-4{
+        padding-left: 0;
+    }
+    .home .container h2{
+        font-size: 60px;
+        font-weight: 900;
+    }
+    .home .container h1{
+        font-size: 50px;
+        font-weight: 900;
+    }
+    .card-body1 .card-text{
+        text-align: start;
+    }
+    .card-body1 h2 {
+        text-align: start;
+    }
+    .card-body1 p{
+        text-align: start;
+    }
+    .show{
+        display: flex;
+        justify-content: start;
+    }
+    .heading{
+        top: 79px;
+    }
+    .heading h5{
+        font-size: 12px;
+    }
+}
+/*  large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .home .container p {
+        font-size: 30px;
+        font-weight: 700;
+    }
+    .home .container .par {
+        font-size: 15px;
+        padding: 10px 50px;
+        font-weight: 400;
+        margin: 0px 53px;
+    }
+    .col-lg-2{
+        padding: 0;
+    }
+    .col-lg-3{
+        padding: 0; 
+    }
+    .col-lg-4{
+        padding-left: 0;
+    }
+    .btn2{
+        padding: 50px 0;
+    }
+    .card-body1{
+        margin-top: 100px;
+    }
+    .home .container h2{
+        font-size: 60px;
+        font-weight: 900;
+    }
+    .home .container h1{
+        font-size: 50px;
+        font-weight: 900;
+    }
+    .img {
+        width: 107px;
+        left: 26%;
+        bottom: 160px;
+    }
+    .banner-section {
+        margin-top: 0;
+    }
+    .card {
+        margin: 10px 10px 30px 10px;
+    }
+    .position{
+        position: relative;
+        margin: 0 50px
+    }
+    .heading{
+        position: absolute;
+        top: 171px;
+        background-color: #000;
+        opacity: 0.8;
+        text-align: center;
+        padding: 10px 0;
+    }
+    .text2{
+        text-align: start;
+    }
+    .container .title h3 {
+        margin-top: 70px;
+        margin-bottom: 45px;
+    }
+    .title2 h3{
+        padding: 50px 0 30px;
+        font-size: 30px;
+        font-weight: 800;
+        text-align: center;
+    }
+    .title2 p{
+        padding: 0 30px 50px 30px;
+        font-size: 15px;
+        font-weight: 400;
+        font-weight: 400;
+        text-align: center;
+    }
+    .cb2{
+        background-color: #E5E5E5;
+        margin: 0 30px;
+    }
+    .cb2 span{
+        text-align: justify;
+        padding-left: 50px;
+    } 
+    .cw img{
+        width: 20px;
+        margin: auto;
+    } 
+    .card1 img{
+        border-radius: 50%;
+        width: 100px;
+        margin: auto;
+    }
+    .john{
+        text-align: center;
+    }
+    .h23 h2{
+      font-size: 30px;
+      font-weight: 900;
+      padding-top: 50px;
+    }
+    .h23 h3{
+        font-size: 40px;
+        font-weight: 400;
+        padding-bottom: 50px;
+    }
+    .px-btn{
+        border: none;
+        border-radius: 30%;
+    }
+    .mar{
+        padding: 0;
+        margin: 50px 100px;
+    }
+    .widget h3{
+        font-size: 20px;
+        font-weight: 300;
+        margin: 10px;
+    }
+    .ppp .con{
+        font-size: 24px;
+        text-align: start;
+        margin: 0;
+    }
+    .ppp p{
+        font-size: 15px;
+        font-weight: 300;
+        text-align: start;
+    }
+    .icons a{
+        text-decoration: none;
+        background-color: #F7B901;
+        color: #000;
+        border-radius: 50%;
+        font-size: 25px;
+        padding: 0 10px;
+    }
+    .widget ul li a{
+        text-decoration: none; 
+        color: #fff;
+    }
+    .col-2{
+        border:  solid #fff;
+        border-radius: 50%;
+        font-size: 15px;
+        padding: 0px 10px;
+        margin-bottom: 10px;
+    }
+    .col-10{
+        padding: 10px;
+        font-size: 17px;
+    }
+}
+/* Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+}
